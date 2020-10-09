@@ -1,0 +1,331 @@
+  28 FinTech 社区
+  19 Kuaishou 快手美研
+  17 Facebook
+  14 Qualcomm 
+  11 NewsBreak
+  10 Netease（网易有道）
+  10 Autodesk
+   9 杉数科技（北京）有限公司
+   9 ZhejiangLab(之江实验室)
+   9 Earnin
+   8 字节跳动（Bytedance）
+   8 Oppo 
+   8 Netease（杭州研究院）
+   8 Geller
+   7 Bolt
+   6 阿里巴巴-AliExpress-数据智能部
+   6 YouLand
+   6 Tencent
+   6 Alibaba (Cloud)
+   5 华为
+   5 Pre IPO Unicorn
+   5 Nvidia
+   5 Netease（智慧企业事业部）
+   5 Netease（网易云音乐）
+   5 Lazada SouthEast Asia Pte Ltd
+   5 Instacart
+   5 Course Hero
+   5 ByteDance
+   5 Autel Intelligent Corporation
+   4 腾讯Tencent
+   4 eBay
+   4 VinSmart USA
+   4 Uber
+   4 TuSimple
+   4 Tesla(特斯拉)
+   4 Sequium Asset Solutions
+   4 Netease（网易互娱）
+   4 Netease（电商业务）
+   4 Mobile App Startup
+   4 Mindstrong
+   4 Global Resource & Technology Development Inc.
+   4 Global Resource & Technology Development Inc
+   4 Coupang USA
+   4 Confidential
+   4 Bytedance (Tiktok)
+   4 Apple
+   4 Amazon
+   3 阿里巴巴
+   3 VMware
+   3 Trip.com
+   3 Tia
+   3 Tencent(WeSee)
+   3 Tencent(WeChat)
+   3 Tencent America(WeSee)
+   3 Tencent (Youtu Lab)
+   3 Spring Professional
+   3 Silicon Valley Bank
+   3 Pre-IPO Unicorn
+   3 PayPal
+   3 Otter.ai
+   3 Netease Games-Thunder Fire（网易雷火游戏）
+   3 Netease Games-Fuxi AiLab（网易伏羲实验室）
+   3 Merico
+   3 Lanhu (蓝湖）
+   3 Kuaishou快手
+   3 Kolmostar
+   3 Intrado
+   3 Ethos
+   3 Esri
+   3 Equinix
+   3 DiDi Labs
+   3 CSI Interfusion
+   3 Bio-Rad Labs
+   3 Addepar
+   2 阿里巴巴-AliExpress-工程技术部
+   2 小红书
+   2 寒武纪
+   2 滴滴 国际化事业部
+   2 网易
+   2 Wicresoft
+   2 UCloud
+   2 TikTok
+   2 Tencent（AI）
+   2 Tencent（AI Lab）
+   2 Tencent(cloud hpc)
+   2 Tencent(Game)
+   2 Tencent America (Cloud)
+   2 Tencent (Tencent Games)
+   2 Tencent (Healthcare)
+   2 Smartnews
+   2 Shopee
+   2 Scale AI
+   2 Samba TV
+   2 Roche/Genentech
+   2 Queenly
+   2 Quectel Wireless Solution
+   2 Pony.ai
+   2 Plaid
+   2 Pingpong global group
+   2 Omnee
+   2 OPPO（深圳研究院）
+   2 Microsoft 
+   2 Microsoft
+   2 Meituan Dianping
+   2 LoopChat - US payment + Chatting
+   2 Inceptio Technology
+   2 Hamsa Pay
+   2 Google
+   2 Glu Mobile
+   2 Futurewei Tech / Huawei USA
+   2 Farfetch
+   2 Etsy
+   2 Dun & Bradstreet
+   2 DreamCraft
+   2 Didi Labs
+   2 DiDi滴滴无人车
+   2 DiDi
+   2 CodeBreakers
+   2 Clari
+   2 CSI Interfusion(微软外包业务)
+   2 Bytedance
+   2 Bloomberg
+   2 Autodesk 
+   2 Antra
+   2 Amazon Alexa
+   2 Alibaba(淘系技术部）
+   2 Alibaba(Aliexpress)
+   2 Alibaba
+   2 Airwallex（空中云汇）
+   2 4Paradigm第四范式
+   2 18F
+   1 阿里巴巴，蚂蚁金服
+   1 中国版领英社交企业
+   1 幻方量化（九章）
+   1 字节跳动（ByteDance） - 商业变现
+   1 蚂蚁金服-CTO-数据科学部
+   1 阿里巴巴(天猫国际)
+   1 蚂蚁集团
+   1 让渡居
+   1 便利蜂
+   1 乐元素
+   1 腾讯Tencent（微信）
+   1 阿里-AliExpress-社交内容互动 
+   1 wowkb.inc
+   1 iSee
+   1 Zwift
+   1 Zoom Video Communications
+   1 Zoom
+   1 XGL Solutions
+   1 Wyze
+   1 Wish
+   1 WiTricity
+   1 Wepay
+   1 Waymo (self-driving)
+   1 Waymo
+   1 WarnerMedia(HBO)
+   1 Wabtec
+   1 Vmware Inc
+   1 Visa
+   1 Vantage Point Software
+   1 VMWare
+   1 Upwork
+   1 Upstart
+   1 UniCareer
+   1 Trade Terminal
+   1 TouchPal.Inc.
+   1 TouchPal
+   1 Tencent（腾讯视频）
+   1 Tencent（腾讯新闻）
+   1 Tencent（微视）
+   1 Tencent（微信）
+   1 Tencent （Video)
+   1 Tencent game（腾讯游戏）
+   1 Tencent (企业微信）
+   1 Tencent (cloud)
+   1 Tencent (Video)
+   1 Tencent (International Business)
+   1 Tencent (Cloud)
+   1 Take2 Health (牛剑教授创立的癌症早期筛查生物科技公司，美国独角兽Grail的亚洲业务)
+   1 TVU Networks
+   1 TSMS
+   1 T-mobile
+   1 Supermicro Corp
+   1 Stealth startup
+   1 Stats Perform
+   1 States Title
+   1 Snapchat
+   1 Smule
+   1 Silicon Valley BAnk
+   1 Shell Hydrogen
+   1 ServiceNow
+   1 Salesforce
+   1 SK Hynix memory solutions America
+   1 SAVE
+   1 SAP SuccessFactors
+   1 Roche 
+   1 Roche
+   1 Robinhood
+   1 RPG 星箭物流
+   1 Promethium 
+   1 Premier Plus Arts & Science LLC
+   1 Postmates
+   1 Pony.ai(小马智行)
+   1 PingPong Global Solutions
+   1 PingCAP
+   1 PillClub
+   1 Paypal INC
+   1 Outreach
+   1 Optoma 奥图码美国
+   1 Nylas
+   1 NortonLifeLock
+   1 Nisum
+   1 Newwave Telecom & Tech
+   1 News Break
+   1 News App Unicorn
+   1 Netease（传媒）
+   1 NetEase（网易云音乐，严选，有道，杭州研究院，传媒，游戏等）
+   1 NetEase（网易云音乐，严选，有道，云计算，大数据等）
+   1 NetEase Game
+   1 NetEase (网易云音乐）
+   1 NetEase (音乐事业部)
+   1 NVIDIA 英伟达 
+   1 NIO
+   1 MySolarAsset, Inc
+   1 Microsoft微软
+   1 Microsoft contract
+   1 Mibura Inc. 
+   1 Mibura Inc.
+   1 Mibura Inc
+   1 MemVerge
+   1 Meetup
+   1 Mastercard 
+   1 MasterClass
+   1 MagicCube
+   1 LumosTech, Inc.
+   1 Lazada ( Alibaba company)
+   1 Lawrence Berkeley National Labs
+   1 Lawrence Berkeley National Laboratory
+   1 Lanhu (蓝湖)
+   1 Landing AI 
+   1 LG Electronics Silicon Valley Lab
+   1 Kyligence
+   1 Kuaishou
+   1 KLA
+   1 Jerry.Ai
+   1 Jerry.AI
+   1 JD.COM Silicon Valley Labs (京东美研)
+   1 Inspur
+   1 Inceptio Self-Driving
+   1 Hiretual 
+   1 Hiretual
+   1 Hidden
+   1 Happy Elements
+   1 GoingFlex
+   1 Glu Toronto
+   1 Global Resource & Technology Development Inc. 
+   1 GRAIL
+   1 Frontiir USA
+   1 Fremonta Corporation
+   1 Fortinet Inc
+   1 Fortinet
+   1 FlightBI
+   1 First Republic Bank
+   1 Finix
+   1 Facebook/WhatsApp
+   1 Essex Management LLC
+   1 EagleView Imaging, Inc.
+   1 E-Data Wiz Singapore
+   1 Dropbox
+   1 Dremio
+   1 Doordash
+   1 Done. （在线心理健康诊疗平台）
+   1 Dolby
+   1 Didi Labs 
+   1 DiDi self-driving
+   1 Dawnlight
+   1 DNAnexus
+   1 Cxoglobal100 
+   1 Cushion AI
+   1 Cruise Automation
+   1 Coinbase
+   1 CloudKitchens
+   1 Citadel/Citadel Securities
+   1 Cerebras Systems
+   1 Capital One
+   1 California Science and Technology University
+   1 Cala Health, Inc.
+   1 Cadence
+   1 Cable Matters Inc.
+   1 CCM
+   1 ByteDance/Tiktok 抖音
+   1 ByteDance/Tiktok
+   1 Blue Cheetah Analog Design
+   1 Bloomberg LP
+   1 Blink Health (Series C)
+   1 Blend
+   1 Bilibili (哔哩哔哩 人工智能技术部)
+   1 Bank of Montreal
+   1 Autonomous Driving startups
+   1 Auryc
+   1 Asiacom Americas Inc.
+   1 Aptiv
+   1 Antra, Inc
+   1 AntX Technologies
+   1 Ant Financial蚂蚁金服微贷
+   1 Ant Financial 
+   1 Ant Financial(蚂蚁-大数据部)
+   1 Ant Financial(蚂蚁-网商)
+   1 Ant Financial Singapore 
+   1 Ant Financial
+   1 Ambarella
+   1 Amazon 
+   1 Amazon, Alexa AI
+   1 Amazon Web Services
+   1 Amazon Display Ads
+   1 Amazon AWS
+   1 Allwin21 Corp.
+   1 Allume
+   1 Alibaba（淘系技术）
+   1 Alibaba-AliExpress-用户增长算法
+   1 Alibaba(Tmall Over Sea)
+   1 Alibaba(Tmall Global Tech)
+   1 Alibaba USA
+   1 Alibaba (新零售智能引擎事业群)
+   1 Alexa AI
+   1 Albertsons
+   1 Airbnb
+   1 Afterpay
+   1 Aerospace Information Research Institute,  Chinese Academy of Sciences (Suzhou)
+   1 ADM Investor Services
+   1 2K Games, Inc
